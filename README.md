@@ -3,7 +3,10 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi, I'm Sohyeon. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Current Status: 서강대학교 컴퓨터공학과 (5th Semester, On Leave)</li></li>Focusing on: 멋쟁이사자처럼 클라우드 엔지니어링 부트캠프 4기 (DevOps & AWS) </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        <li>Current Status: 서강대학교 컴퓨터공학과 (5th Semester, On Leave)</li>
+        <li>Focusing on: 멋쟁이사자처럼 클라우드 엔지니어링 부트캠프 4기 (DevOps & AWS)</li>
+    </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -22,3 +25,4 @@
           </div>
     </div>
     
+
