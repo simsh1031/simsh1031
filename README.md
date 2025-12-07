@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=729278&height=180&text=Don't%20Come%20in&animation=blink&fontColor=ffffff&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=729278&height=180&animation=blink&fontColor=ffffff&fontSize=90" />
 </div>
 
 ## Hi, I'm Sohyeon.
@@ -42,3 +42,4 @@
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
+
