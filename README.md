@@ -4,7 +4,7 @@
 
 ## Hi, I'm Sohyeon.
 - **Current Status:** 서강대학교 컴퓨터공학과 (5th Semester, On Leave)  
-- **Focusing on:** 멋쟁이사자처럼 클라우드 엔지니어링 부트캠프 4기 (DevOps & AWS)
+- **Completed:** 멋쟁이사자처럼 클라우드 엔지니어링 부트캠프 4기 (DevOps & AWS)
 
 ---
 
@@ -47,4 +47,5 @@
     <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </div>
+
 
