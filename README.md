@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:111827,100:374151&text=Sohyeon%20Sim&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn"/>
 
-# 👋 Hi, I'm **Sohyeon Sim**
+## 👋 Welcome to my GitHub
 
 ### ☁️ Cloud/DevOps Engineer · Backend Developer
 
