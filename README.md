@@ -3,9 +3,12 @@
 </div>
 
 ## Hi, I'm Sohyeon.
-- 서강대학교 컴퓨터공학과 (5th Semester, On Leave)  
-- 멋쟁이사자처럼 클라우드 엔지니어링 부트캠프 4기 (DevOps & AWS)
-- 멋쟁이사자처럼 로켓단 인턴십 22기
+
+| 🎓 Education & Experience | Details |
+|---------------------------|---------|
+| University | 서강대학교 컴퓨터공학과 (5th Semester, On Leave) |
+| Bootcamp | 멋쟁이사자처럼 클라우드 엔지니어링 부트캠프 4기 (DevOps & AWS) |
+| Internship | 멋쟁이사자처럼 로켓단 인턴십 22기 |
 
 ---
 
