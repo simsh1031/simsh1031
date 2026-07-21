@@ -1,16 +1,8 @@
-<div align="center">
+<div align="center"> 
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=729278&height=180&animation=blink&fontColor=ffffff&fontSize=90" /> 
+</div> 
 
-# 👋 Hi, I'm **Sohyeon Sim**
-
-### Cloud Engineer • Backend Developer
-
-> *Designing scalable and reliable cloud infrastructure.*
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,terraform,java,spring,mysql,redis,githubactions"/>
-
-</div>
+# Hi, I'm Sohyeon.
 
 | 🎓 Education & Experience | Details |
 |---------------------------|---------|
