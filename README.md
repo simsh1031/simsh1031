@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20&text=Sohyeon%20Sim&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,100:0EA5E9&text=Sohyeon%20Sim&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn"/>
 
 # 👋 Hi, I'm **Sohyeon Sim**
 
