@@ -10,7 +10,7 @@
 
 ---
 
-## 🎓 Education & Experience
+# 🎓 Education & Experience
 
 | Category | Details |
 | :--- | :--- |
