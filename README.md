@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=729278&height=180&animation=blink&fontColor=ffffff&fontSize=90" />
 </div>
 
-## Hi, I'm Sohyeon.
+# Hi, I'm Sohyeon.
 
 | 🎓 Education & Experience | Details |
 |---------------------------|---------|
