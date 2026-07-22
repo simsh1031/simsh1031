@@ -24,18 +24,9 @@
 
 ### ☁️ Cloud & DevOps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes"/>
-
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/horizontal/color/Argo-LogoColor.svg"
-       height="48"
-       alt="Argo CD"/>
-
-  <img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"/>
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux&perline=5"/>
+</div>
 
 ### 💻 Backend
 
