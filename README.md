@@ -25,7 +25,12 @@
 ### ☁️ Cloud & DevOps
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux&perline=5"/>
+  <img src="https://cdn.jsdelivr.net/gh/cncf/artwork@main/projects/argo/icon/color/argocd-icon-color.svg"
+       alt="Argo CD"
+       width="48"
+       height="48"
+       style="vertical-align:middle;"/>
 </div>
 
 ### 💻 Backend
