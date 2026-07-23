@@ -31,7 +31,7 @@
 ### 💻 Backend
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,python,django&perline=5"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,python&perline=5"/>
 </div>
 
 ### 🗄 Database & Web Server
