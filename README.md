@@ -43,7 +43,7 @@
 ### 🌐 Frontend
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,ts,css,tailwind&perline=6"/>
 </div>
 
 ---
