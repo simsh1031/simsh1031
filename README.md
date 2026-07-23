@@ -52,12 +52,6 @@
 <img src="https://skillicons.dev/icons?i=gradle,maven&perline=5"/>
 </div>
 
-### 💡 Languages
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp&perline=5"/>
-</div>
-
 ---
 
 # 📊 GitHub Stats
