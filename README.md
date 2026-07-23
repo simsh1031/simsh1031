@@ -34,22 +34,16 @@
 <img src="https://skillicons.dev/icons?i=java,kotlin,spring,python&perline=5"/>
 </div>
 
-### 🗄 Database & Web Server
+### 🗄 Database
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=mysql,nginx&perline=5"/>
+<img src="https://skillicons.dev/icons?i=mysql&perline=5"/>
 </div>
 
 ### 🌐 Frontend
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&perline=6"/>
-</div>
-
-### ⚙️ Build Tools
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=gradle,maven&perline=5"/>
 </div>
 
 ---
