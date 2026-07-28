@@ -20,6 +20,14 @@
 
 ---
 
+# 📜 Certifications
+
+| Certificate | Status |
+| :--- | :--- |
+| 🏅 SQLD (SQL Developer) | Certified |
+
+---
+
 # 🛠 Tech Stack
 
 ### ☁️ Cloud & DevOps
@@ -51,4 +59,3 @@
 # 📊 GitHub Stats
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
