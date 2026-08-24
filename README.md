@@ -1,4 +1,4 @@
-## Education & Experience
+## Profile
 
 | Category | Details |
 | :--- | :--- |
