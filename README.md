@@ -14,7 +14,7 @@
 
 | Category | Details |
 | :--- | :--- |
-| 🎓 **University** | **Sogang University**<br>Computer Science (5th Semester, On Leave) |
+| 🎓 **University** | Sogang University |
 | ☁️ **Bootcamp** | LikeLion Cloud Engineering Bootcamp 4th (DevOps & AWS) |
 | 🚀 **Internship** | LikeLion Rocketdan Internship 22nd |
 
