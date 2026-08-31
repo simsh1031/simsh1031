@@ -11,7 +11,7 @@
 
 **Cloud & DevOps**
 <div align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux&perline=5"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions&perline=5"/>
 </div>
 
 **Backend**
