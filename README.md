@@ -6,6 +6,7 @@
 | Bootcamp | LikeLion Cloud Engineering Bootcamp 4th (DevOps & AWS) |
 | Internship | LikeLion Rocketdan Internship 22nd |
 | Certification | SQLD (SQL Developer) |
+| Club | Cloud Club (10th) |
 
 ## Tech Stack
 
